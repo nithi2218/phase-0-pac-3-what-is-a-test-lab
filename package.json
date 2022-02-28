@@ -26,9 +26,12 @@
   "homepage": "https://github.com/learn-co-curriculum/js-functions-lab#readme",
   "devDependencies": {
     "chai": "^3.5.0",
+    "eslint": "^8.10.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
     "expect": "^1.20.2",
     "jsdom": "^9.0.0",
-    "mocha": "5.2.0",
+    "mocha": "^9.2.1",
     "mocha-jsdom": "~1.1.0",
     "mocha-multi": "^1.1.3"
   }
